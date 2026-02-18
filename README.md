@@ -19,3 +19,5 @@ Special characters (!@#$%^&*, etc.)
 Lightweight and easy to use
 
 Beginner-friendly Python project
+
+# Purpose
